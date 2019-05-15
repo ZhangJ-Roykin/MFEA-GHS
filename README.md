@@ -1,2 +1,2 @@
 # MFEA-THS
-The source code for paper Hybrid of Translated Learning and Hyper-rectangle Search Strategies for Evolutionary Multitasking
+The single-objective source code version for paper A Hybrid of Genetic Transform and Hyper-rectangle Search Strategies for Evolutionary Multitasking
